@@ -38,13 +38,19 @@ We're a small but growing team. You won't be a ticket in a queue here. The probl
 
 ---
 
-## 💜 Currently Hiring Across Data & Software
+## 🚀 Currently Hiring Across Data & Software Teams
 
 &nbsp;&nbsp;&nbsp;&nbsp;💜 **Data Scientists**
+
 &nbsp;&nbsp;&nbsp;&nbsp;💜 **ML Engineers**
+
 &nbsp;&nbsp;&nbsp;&nbsp;💜 **Data Engineers**
+
 &nbsp;&nbsp;&nbsp;&nbsp;💜 **Software Engineers**
+
 &nbsp;&nbsp;&nbsp;&nbsp;💜 **Technical Program & Project Managers**
+
+&nbsp;&nbsp;&nbsp;&nbsp;💜 **Data Interoperability Architect & Engineers**
 
 ---
 
