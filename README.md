@@ -17,14 +17,14 @@
   <circle cx="720" cy="30" r="60" fill="#7256F6" opacity="0.08"/>
   <circle cx="80" cy="110" r="50" fill="#51B3FA" opacity="0.07"/>
   <circle cx="400" cy="14" r="3" fill="#E0F972" opacity="0.6"/>
-  <text x="400" y="62" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="url(#textgrad)" text-anchor="middle">Bianca Belkov</text>
+  <text x="400" y="62" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="url(#textgrad)" text-anchor="middle">Bianca Belkov | </text>
   <line x1="280" y1="76" x2="520" y2="76" stroke="#7256F6" stroke-width="1" opacity="0.6"/>
-  <text x="400" y="100" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#F0EEFB" text-anchor="middle" opacity="0.9">Talent @ Commence  |  Healthcare  |  Building Greater Data, for the Greater Good</text>
+  <text x="400" y="100" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#F0EEFB" text-anchor="middle" opacity="0.9"><tspan>Talent @ Commence  |  Healthcare  |  Building Greater Data, for the </tspan><tspan font-style="italic">Greater Good</tspan></text>
 </svg>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=7256F6&center=true&vCenter=true&width=600&lines=Building+teams+that+build+the+future+%F0%9F%92%9C;Talent+%40+Commence;Real+problems.+Real+data.+Real+impact.;Data+Scientists+%E2%80%A2+ML+Engineers+%E2%80%A2+SWEs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=7256F6&center=true&vCenter=true&width=750&lines=Building+teams+that+build+the+future+of+healthcare+%F0%9F%92%9C;Fraud+detection+%C2%B7+Quality+improvement+%C2%B7+Claims+analytics;Real+problems.+Real+data.+Real+impact.;Data+Scientists+%C2%B7+ML+Engineers+%C2%B7+Data+Engineers+%C2%B7+Software+Engineers+%C2%B7+TPMs)](https://git.io/typing-svg)
 
 </div>
 
@@ -67,12 +67,6 @@ If you're working on something interesting in healthcare data, NLP, MLOps, RAG p
 ## ⚙️ Our Tech Stack
 
 <table>
-  <thead>
-    <tr>
-      <th style="background-color:#190C38;color:#FFFFFF;padding:8px 14px;border:2px solid #7256F6;">Category</th>
-      <th style="background-color:#190C38;color:#FFFFFF;padding:8px 14px;border:2px solid #7256F6;">Technologies</th>
-    </tr>
-  </thead>
   <tbody>
     <tr style="background-color:#F0EEFB;">
       <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>💻 Backend</strong></td>
@@ -84,15 +78,23 @@ If you're working on something interesting in healthcare data, NLP, MLOps, RAG p
     </tr>
     <tr style="background-color:#F0EEFB;">
       <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>☁️ AWS</strong></td>
-      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">EC2 · S3 · Lambda · RDS · API Gateway · IAM</td>
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">EC2 · S3 · Lambda · RDS · API Gateway · IAM · Bedrock · EMR</td>
     </tr>
     <tr style="background-color:#FFFFFF;">
       <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>🔧 Data Engineering</strong></td>
-      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">SQL · ETL Pipelines · Healthcare Claims Data · Regulatory Datasets</td>
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">SQL · ETL Pipelines · Apache Spark · PySpark · Healthcare Claims · FHIR · HL7</td>
     </tr>
     <tr style="background-color:#F0EEFB;">
-      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>🚀 Emerging</strong></td>
-      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">Databricks · Snowflake · Cloud Data Lakes · Interoperability Frameworks</td>
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>🧠 Data Science</strong></td>
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">Python · R · Scikit-Learn · TensorFlow · PyTorch · Jupyter · Power BI · Quicksight</td>
+    </tr>
+    <tr style="background-color:#FFFFFF;">
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>🤖 AI / ML</strong></td>
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">LLMs · RAG Pipelines · MLflow · LangChain · AWS Bedrock · Anthropic · Vector DBs · FastAPI</td>
+    </tr>
+    <tr style="background-color:#F0EEFB;">
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>🗄️ Data Platform</strong></td>
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">Databricks · Snowflake · Delta Lake · Cloud Data Lakes · Interoperability Frameworks</td>
     </tr>
     <tr style="background-color:#FFFFFF;">
       <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>🔀 Version Control</strong></td>
