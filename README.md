@@ -24,11 +24,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=7256F6&center=true&vCenter=true&width=600&lines=Building+teams+that+build+the+future+of+healthcare%F0%9F%92%9C;Talent+%40+Commence;Real+problems.+Real+data.+Real+impact.;Data+Scientists+%E2%80%A2+ML+Engineers+%E2%80%A2+SWEs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=7256F6&center=true&vCenter=true&width=600&lines=Building+teams+that+build+the+future+%F0%9F%92%9C;Talent+%40+Commence;Real+problems.+Real+data.+Real+impact.;Data+Scientists+%E2%80%A2+ML+Engineers+%E2%80%A2+SWEs)](https://git.io/typing-svg)
 
 </div>
 
+
 ---
+
 
 ## 👋 Hi, I'm Bianca
 
@@ -36,23 +38,21 @@ I'm on the talent team at **Commence**. We build modular, data-driven systems th
 
 We're a small but growing team. You won't be a ticket in a queue here. The problems are real, the data is messy, and the work shows up in programs that directly impact the people who depend on them.
 
----
-
-## 🚀 Currently Hiring Across Data & Software Teams
-
-&nbsp;&nbsp;&nbsp;&nbsp;💜 **Data Scientists**
-
-&nbsp;&nbsp;&nbsp;&nbsp;💜 **ML Engineers**
-
-&nbsp;&nbsp;&nbsp;&nbsp;💜 **Data Engineers**
-
-&nbsp;&nbsp;&nbsp;&nbsp;💜 **Software Engineers**
-
-&nbsp;&nbsp;&nbsp;&nbsp;💜 **Technical Program & Project Managers**
-
-&nbsp;&nbsp;&nbsp;&nbsp;💜 **Data Interoperability Architect & Engineers**
 
 ---
+
+
+## 🚀 Currently Hiring Across Data & Software
+
+💜 **Data Scientists**<br>
+💜 **ML Engineers**<br>
+💜 **Data Engineers**<br>
+💜 **Software Engineers**<br>
+💜 **Technical Program & Project Managers**
+
+
+---
+
 
 ## 🏗️ What We're Building
 
@@ -60,21 +60,54 @@ Modular data pipelines, healthcare interoperability, claims and clinical data sy
 
 If you're working on something interesting in healthcare data, NLP, MLOps, RAG pipelines, or production ML systems -- or if you're a technical PM who thrives in complex data environments, I'd love to connect. No copy-paste pitches, I promise. 🤝
 
+
 ---
+
 
 ## ⚙️ Our Tech Stack
 
-| | |
-|---|---|
-| 💻 **Backend** | .NET Core / C# · Microservices · RESTful APIs |
-| ⚛️ **Frontend** | React · JavaScript · TypeScript |
-| ☁️ **AWS** | EC2 · S3 · Lambda · RDS · API Gateway · IAM |
-| 🔧 **Data Engineering** | SQL · ETL Pipelines · Healthcare Claims Data · Regulatory Datasets |
-| 🚀 **Emerging** | Databricks · Snowflake · Cloud Data Lakes · Interoperability Frameworks |
-| 🔀 **Version Control** | Git · Bitbucket · Azure Git |
-| 🖥️ **OS** | Windows · Linux |
+<table>
+  <thead>
+    <tr>
+      <th style="background-color:#190C38;color:#FFFFFF;padding:8px 14px;border:2px solid #7256F6;">Category</th>
+      <th style="background-color:#190C38;color:#FFFFFF;padding:8px 14px;border:2px solid #7256F6;">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#F0EEFB;">
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>💻 Backend</strong></td>
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">.NET Core / C# · Microservices · RESTful APIs</td>
+    </tr>
+    <tr style="background-color:#FFFFFF;">
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>⚛️ Frontend</strong></td>
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">React · JavaScript · TypeScript</td>
+    </tr>
+    <tr style="background-color:#F0EEFB;">
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>☁️ AWS</strong></td>
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">EC2 · S3 · Lambda · RDS · API Gateway · IAM</td>
+    </tr>
+    <tr style="background-color:#FFFFFF;">
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>🔧 Data Engineering</strong></td>
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">SQL · ETL Pipelines · Healthcare Claims Data · Regulatory Datasets</td>
+    </tr>
+    <tr style="background-color:#F0EEFB;">
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>🚀 Emerging</strong></td>
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">Databricks · Snowflake · Cloud Data Lakes · Interoperability Frameworks</td>
+    </tr>
+    <tr style="background-color:#FFFFFF;">
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>🔀 Version Control</strong></td>
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">Git · Bitbucket · Azure Git</td>
+    </tr>
+    <tr style="background-color:#F0EEFB;">
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;"><strong>🖥️ OS</strong></td>
+      <td style="padding:8px 14px;border:2px solid #7256F6;color:#190C38;">Windows · Linux</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
+
 
 ## 📊 Why Commence
 
@@ -91,7 +124,9 @@ If you're working on something interesting in healthcare data, NLP, MLOps, RAG p
 - **Mission-driven** -- the systems you build serve people who depend on them
 - **Growing fast** -- early enough to shape the culture and architecture
 
+
 ---
+
 
 ## 🤝 Let's Connect
 
